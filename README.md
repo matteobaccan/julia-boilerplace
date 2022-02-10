@@ -1,2 +1,2 @@
-# julia-boilerplace
+# julia-boilerplate
 Hello world in julia
